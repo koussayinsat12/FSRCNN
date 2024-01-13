@@ -1,0 +1,7 @@
+albumentations
+matplotlib
+numpy
+pandas
+Pillow
+tensorflow
+tqdm
